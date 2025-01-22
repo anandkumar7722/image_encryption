@@ -22,8 +22,8 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/anandkumar7722/image_encryption.git
+cd image_encryption
 
 # Create a virtual environment (Recommended)
 python3 -m venv venv
